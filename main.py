@@ -30,3 +30,4 @@ print("Timestamp: ", date, " ", time)
 # ╚═════╝░░╚════╝░╚═╝░░░░░░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
 
 print("Loading variables from YAML files")
+print("Test push")
